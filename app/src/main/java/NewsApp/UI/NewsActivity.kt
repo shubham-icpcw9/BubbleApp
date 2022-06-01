@@ -1,4 +1,4 @@
-package com.example.bubbleapp.UI
+package NewsApp.UI
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

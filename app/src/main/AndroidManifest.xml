@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.BubbleApp">
         <activity
-            android:name=".UI.NewsActivity"
+            android:name="NewsApp.UI.NewsActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
