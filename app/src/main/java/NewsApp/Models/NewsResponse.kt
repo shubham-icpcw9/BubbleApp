@@ -1,4 +1,6 @@
-package NewsApp
+package NewsApp.Models
+
+import NewsApp.Models.Article
 
 data class NewsResponse(
     val articles: List<Article>,
