@@ -1,4 +1,4 @@
-package NewsApp
+package NewsApp.Models
 
 data class Source(
     val id: Any,
